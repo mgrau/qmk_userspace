@@ -1,4 +1,9 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["ai03/polaris", "mgrau"],
+        ["dztech/tofu60", "mgrau"],
+        ["lily58", "mgrau"],
+        ["gmmk/pro/rev1/ansi", "mgrau"]
+    ]
 }
